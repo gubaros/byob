@@ -8,5 +8,5 @@ pyminifier==2.1
 requests==2.18.4
 PyInstaller==3.3.1
 pycryptodome==3.6.1
-opencv-python==3.4.1.15
+opencv-python==4.2.0.32
 pypiwin32==223
